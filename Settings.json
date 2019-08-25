@@ -1,0 +1,15 @@
+{
+    "Root": "workspace",
+    "Port": {
+        "UI": 50000,
+        "File": 50001
+    },
+    "FILETYPE": {
+        "FOLDER": "Folder",
+        "FILE": "File",
+        "UNKNOWN": "Unknown file"
+    },
+    "EXTENSION": {
+
+    }
+}
