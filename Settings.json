@@ -9,7 +9,24 @@
         "FILE": "File",
         "UNKNOWN": "Unknown file"
     },
-    "EXTENSION": {
+    "ICON": {
+        "__FOLDER__": "resources/icons/folder.ico",
+        "__DEFAULT__": "resources/icons/file.ico",
+        "TXT": "resources/icons/txt.ico",
 
-    }
+        "WAV": "resources/icons/audio.ico",
+        "MP3": "resources/icons/audio.ico",
+
+        "MP4": "resources/icons/video.ico",
+        "MPG": "resources/icons/video.ico",
+        "WMV": "resources/icons/video.ico",
+        "OGG": "resources/icons/video.ico",
+
+        "BMP": "resources/icons/image.ico",
+        "GIF": "resources/icons/image.ico",
+        "PNG": "resources/icons/image.ico",
+        "JPEG": "resources/icons/image.ico",
+        "JPG": "resources/icons/image.ico"
+    },
+    "EXTENSION": {}
 }
